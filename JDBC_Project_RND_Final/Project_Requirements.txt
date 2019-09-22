@@ -1,0 +1,167 @@
+				
+					          Textile Mill
+					
+							Department 
+							
+							Research and Developments(RND)
+I have a textille mill. I am running my mill from many days. The world has changed. 
+At present every textille mill they are trying to be digitalized. So, they are goinng 
+to software company for buing soft ware by which they can able to paly there textille mill
+smoothly and digitally. Also I want . I want a software, where the following things will be.
+
+	1.Access allow in software:
+			(i)Wonner (Wonner can able to do every thing).
+			(ii)Manager (Manager can able to entry data, update data but not delete data).
+
+	2.Buying section: It's a section where will be details, what types of product I will buy.
+	  There will be product name, product price, product quantity, product quality, product 
+	  expired date.
+	
+	
+	
+		1.Employeer of buying section
+		 A.Manager
+			(i)Name
+			(ii)Manager ID
+			(iii)Contract
+			
+		 B.Associate Manager;
+			(i)Name
+			(ii)As.Manager ID
+			(iii)Contract
+			
+		C.Buying product 
+		
+		(i)Thread
+				a.Price
+				
+				c.Quantity
+				d.Buying data
+				e.Import Country
+				f.Expired date
+				g.color.				
+		(ii)Dye
+				a.Price
+				
+				c.Quantity
+				d.Buying data
+				e.Import Country
+				f.Expired date
+				g.color.
+		(iii)Camecal
+				a.Price
+				
+				c.Quantity
+				d.Buying data
+				e.Import Country
+				f.Expired date
+				
+	
+	3. Knitting Section: There is a knitting section in my mill. And there are some workers.
+	   I need to calculate how much workers are working there.
+	   HOw much money have to pay for this section.And I have to calculate how much 
+	   product are knitting here.And which product are knitting knitting here.
+		
+		Employeers of Knitting section :
+			1.Ab Kader
+				a.Name
+				b.Salary
+				c.Joining date
+				d.Age
+				e.Address
+				f.Mobile	
+		Types of product:
+			A.Fabric
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			B.Bed Sheet
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			C.Sari
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+
+	   4.	Dyeing Section: There is a dyeing section in my mill. And there are some workers.
+	        I need to calculate how much workers are working there.
+	        HOw much money have to pay for this section.And I have to calculate how much 
+		product are dyeing here.And which product are dyeing  here.
+			
+			Employeers of Dyeing section :
+			1.Ab Kader
+				a.Name
+				b.Salary
+				c.Joining date
+				d.Age
+				e.Address
+				f.Mobile
+			Types of product:
+			A.Fabric
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			B.Bed Sheet
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			C.Sari
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			
+		5.Finishing Section: There is a Finishing section in my mill. And there are some workers.
+	        I need to calculate how much workers are working there.
+	        HOw much money have to pay for this section.And I have to calculate how much 
+		product are Finishing here.And which product are Finishing  here.
+			
+			Employeers of Finishing section :
+			1.Ab Kader
+				a.Name
+				b.Salary
+				c.Joining date
+				d.Age
+				e.Address
+				f.Mobile
+			Types of product:
+			A.Fabric
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			B.Bed Sheet
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+			C.Sari
+				a.Name
+				b.Height
+				c.Weight
+				d.color
+				e.delevary date
+				f.Wuantity.
+	
